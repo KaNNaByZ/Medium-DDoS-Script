@@ -1,0 +1,2 @@
+# Medium-DDoS-Script
+DDoS:)
